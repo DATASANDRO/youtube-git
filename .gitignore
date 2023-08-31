@@ -1,2 +1,5 @@
-# elimina todo los archgivos .exe
+# elimina todo los archgivos .exe si los archivos ya existes antes del gitinnore no lo asocia
+#https://github.com/DATASANDRO/youtube-git
+
+
 *.exe
