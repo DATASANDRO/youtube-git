@@ -1,0 +1,12 @@
+este es un cambio en mi readme 
+agregando mas conenido al radme
+actualizando el mark28/0823
+agrege un achv
+
+
+#cuando hago el amet -m osea ctualizando el nuevo comit parec ese desactiva mi remoto (ise un push)en git  me pedira hacer un git pull luego guardo loos cambios como ya habia echo el push esto se vulve un comflicto(main-Merging) y haras un git add git commit con su mensaje(commit nuevo)
+
+
+eso de hacer un canbio al comit se debe hacer antes de hacer un push sino habra conflicto
+
+osea cuando hay conflicto oblogado debo crear un commit nuevo con su mensaje
